@@ -31,25 +31,10 @@ This project is a **real-time Sign Language Translator (SLT)** at the **letter l
    - The letter is displayed in real-time.
 
 ## Team Members
-- **Alice Johnson**
-- **Bob Smith**
-- **Charlie Davis**
-- **David Lee**
-
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/SLT_project_MP_images.git
-   cd SLT_project_MP_images
-   ```
-2. Install dependencies:
-   ```sh
-   pip install torch torchvision transformers groundingdino opencv-python requests pandas numpy pillow mediapipe tensorflow keras
-   ```
-3. Run the real-time prediction:
-   ```sh
-   python run_slt.py
-   ```
+- **Nour Hany**
+- **Laila Khaled**
+- **Yasmine Mohammed**
+- **Ahmed Sameh**
 
 ## Usage
 - Make sure your webcam is enabled.
