@@ -46,7 +46,5 @@ This project is a **real-time Sign Language Translator (SLT)** at the **letter l
 - Enhance accuracy with **more training data**.
 - Support for **multiple sign languages**.
 
----
-**License:** MIT
 
 
