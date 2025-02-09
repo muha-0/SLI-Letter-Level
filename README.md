@@ -37,6 +37,7 @@ This project is a **real-time Sign Language Translator (SLT)** at the **letter l
 - **Ahmed Sameh**
 
 ## Usage
+- Run SLT.py, you can run starting from the step of loading the model.
 - Make sure your webcam is enabled.
 - Perform a hand gesture corresponding to an English letter.
 - The system will recognize and display the predicted letter.
