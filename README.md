@@ -1,7 +1,7 @@
-# Sign Language Translation (SLT) - Letter Level
+# Sign Language Interpreter (SLI) - Letter Level
 
 ## About the Project
-This project is a **real-time Sign Language Translator (SLT)** at the **letter level**, designed to recognize hand gestures corresponding to the **English alphabet (A-Z)**. It utilizes **MediaPipe** for hand landmark extraction and employs deep learning models to classify gestures.
+This project is a **real-time Sign Language Translator/Interpreter (SLI)** at the **letter level**, designed to recognize hand gestures corresponding to the **English alphabet (A-Z)**. It utilizes **MediaPipe** for hand landmark extraction and employs deep learning models to classify gestures.
 
 ### Features:
 - **Real-time letter recognition** using a webcam
