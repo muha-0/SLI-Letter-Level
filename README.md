@@ -31,10 +31,10 @@ This project is a **real-time Sign Language Translator/Interpreter (SLI)** at th
    - The letter is displayed in real-time.
 
 ## Team Members
+- **Ahmed Sameh**
 - **Nour Hany**
 - **Laila Khaled**
 - **Yasmine Mohammed**
-- **Ahmed Sameh**
 
 ## Usage
 - Run SLT.py, you can run starting from the step of loading the model.
